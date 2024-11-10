@@ -6,64 +6,8 @@ const tickets = [
         "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
         "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
         "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
     },
-    {
-        "Case No": "IM286844821",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    },
-    {
-        "Case No": "IM286844685",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    },
-    {
-        "Case No": "IM286844500",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    },
-    {
-        "Case No": "IM286844348",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    },
-    {
-        "Case No": "IM286844396",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    },
-    {
-        "Case No": "IM286844017",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    },
-    {
-        "Case No": "IM286844138",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    },
-    {
-        "Case No": "IM286843894",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-        "Case Resolution Comments": "Proceed for cancellation",
-        "": ""
-    }
+    // Add more tickets as needed
 ];
 
 async function main() {
@@ -137,83 +81,96 @@ async function main() {
                         await driver.switchTo().window(newTabHandle);
                         console.log('Switched to the new tab.');
 
-                        // Handle "Assign To Me" or "Resolve" button if available
-                        let assignOrResolveHandled = false;
-                        try {
-                            // Wait for "Assign To Me" button and click if available
-                            let assignButton = await driver.wait(until.elementLocated(By.xpath("//input[@class='btn btn-primary btnAssignToMe']")), 10000);
-                            await assignButton.click();
-                            console.log(`Assigned to self for ticket: ${ticket["Case No"]}`);
-                            assignOrResolveHandled = true;
-
-                            // Wait for the page to load after assigning
-                            await driver.wait(until.stalenessOf(assignButton), 2000);
-                            await driver.close();
-                            await driver.switchTo().window(allHandles[0]);
-                            console.log('Closed assigned tab and returned to main tab.');
-
-                            // Open the ticket link again to load the new tab
-                            await caseLink.click();
-                            console.log('Reopened the case in a new tab.');
-
-                            // Update the new window handle
-                            allHandles = await driver.getAllWindowHandles();
-                            newTabHandle = allHandles[1];
-                            await driver.switchTo().window(newTabHandle);
-                        } catch (error) {
-                            console.log('Assign button not found, checking for Resolve button...');
+                        // Helper function to click "Assign To Me" or "Resolve" when available
+                        async function clickButtonWhenAvailable(xpath, timeout = 1000) {
+                            const startTime = Date.now();
+                            while (Date.now() - startTime < timeout) {
+                                try {
+                                    const button = await driver.findElement(By.xpath(xpath));
+                                    await driver.wait(until.elementIsVisible(button), 1000);
+                                    await driver.wait(until.elementIsEnabled(button), 1000);
+                                    await button.click();
+                                    console.log(`Clicked button with xpath: ${xpath}`);
+                                    return true; // Success
+                                } catch (error) {
+                                    await driver.sleep(500); // Retry every 500ms if not found
+                                }
+                            }
+                            return false; // Failed to click within the timeout
                         }
+
+                        // Optimized function to click "Assign To Me" or "Resolve" when available
+                        // async function clickButtonWhenAvailable(xpath, timeout = 5000) {
+                        //     const startTime = Date.now();
+                        //     while (Date.now() - startTime < timeout) {
+                        //         try {
+                        //             // Try to locate the button and click it if visible and enabled
+                        //             const button = await driver.findElement(By.xpath(xpath));
+                                    
+                        //             // Immediate click if found (assuming visibility and enablement checks can be skipped for speed)
+                        //             await button.click();
+                        //             console.log(`Clicked button with xpath: ${xpath}`);
+                        //             return true; // Success
+                        //         } catch (error) {
+                        //             // Sleep for 200ms before retrying if not found/clickable
+                        //             await driver.sleep(200); 
+                        //         }
+                        //     }
+                        //     console.log(`Failed to click button within ${timeout} ms`);
+                        //     return false; // Failed to click within the timeout
+}
+
+
+                        // Try clicking "Assign To Me" button if available
+                        let assignOrResolveHandled = await clickButtonWhenAvailable("//input[@class='btn btn-primary btnAssignToMe']");
 
                         if (!assignOrResolveHandled) {
-                            try {
-                                // Wait for "Resolve" button and click
-                                let resolveButton = await driver.wait(until.elementLocated(By.xpath("//button[@class='btn btn-primary btnResolve']")), 20000);
-                                await resolveButton.click();
-                                console.log(`Clicked the "Resolve" button for ticket: ${ticket["Case No"]}`);
-                                await driver.sleep(2000);
-                            } catch (error) {
-                                console.log(`Resolve button not found for ticket: ${ticket["Case No"]}`);
-                            }
+                            // Try clicking "Resolve" button if "Assign To Me" was not found
+                            assignOrResolveHandled = await clickButtonWhenAvailable("//button[@class='btn btn-primary btnResolve']");
                         }
 
-                        // Wait for modal to appear and enter category, resolution, and comment
-                        await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000);
-                        let categorySelect = await driver.findElement(By.id('categoryrv'));
-                        let caseResolutionSelect = await driver.findElement(By.id('caseResolutionrv'));
-                        let commentInput = await driver.findElement(By.id('commentrv'));
+                        if (assignOrResolveHandled) {
+                            // Proceed with entering case details if a button was clicked
+                            await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000);
+                            let categorySelect = await driver.findElement(By.id('categoryrv'));
+                            let caseResolutionSelect = await driver.findElement(By.id('caseResolutionrv'));
+                            let commentInput = await driver.findElement(By.id('commentrv'));
 
-                        // Select Case Category
-                        let categoryOptions = await categorySelect.findElements(By.tagName('option'));
-                        for (let option of categoryOptions) {
-                            if ((await option.getText()) === ticket["Case Category"]) {
-                                await option.click();
-                                break;
+                            // Select Case Category
+                            let categoryOptions = await categorySelect.findElements(By.tagName('option'));
+                            for (let option of categoryOptions) {
+                                if ((await option.getText()) === ticket["Case Category"]) {
+                                    await option.click();
+                                    break;
+                                }
                             }
-                        }
 
-                        // Select Case Resolution Category
-                        let caseResolutionOptions = await caseResolutionSelect.findElements(By.tagName('option'));
-                        for (let option of caseResolutionOptions) {
-                            if ((await option.getText()) === ticket["Case Resolution Category"]) {
-                                await option.click();
-                                break;
+                            // Select Case Resolution Category
+                            let caseResolutionOptions = await caseResolutionSelect.findElements(By.tagName('option'));
+                            for (let option of caseResolutionOptions) {
+                                if ((await option.getText()) === ticket["Case Resolution Category"]) {
+                                    await option.click();
+                                    break;
+                                }
                             }
+
+                            // Enter Case Resolution Comments
+                            await commentInput.clear();
+                            await commentInput.sendKeys(ticket["Case Resolution Comments"]);
+
+                            // Click Save button
+                            let saveButton = await driver.findElement(By.xpath("//button[contains(text(), 'Save')]"));
+                            await saveButton.click();
+                            console.log(`Saved resolution for ticket: ${ticket["Case No"]}`);
+
+                            // Wait for save action to complete and close the tab
+                            await driver.wait(until.stalenessOf(saveButton), 5000);
+                            await driver.close();
+                            await driver.switchTo().window(allHandles[0]);
+                            console.log('Closed the resolved tab and returned to main tab.');
+                        } else {
+                            console.log(`Failed to find "Assign To Me" or "Resolve" button for ticket: ${ticket["Case No"]}`);
                         }
-
-                        // Enter Case Resolution Comments
-                        await commentInput.clear();
-                        await commentInput.sendKeys(ticket["Case Resolution Comments"]);
-
-                        // Click Save button
-                        let saveButton = await driver.findElement(By.xpath("//button[contains(text(), 'Save')]"));
-                        await saveButton.click();
-                        console.log(`Saved resolution for ticket: ${ticket["Case No"]}`);
-
-                        // Wait for save action to complete and close the tab
-                        await driver.wait(until.stalenessOf(saveButton), 5000);
-                        await driver.close();
-                        await driver.switchTo().window(allHandles[0]);
-                        console.log('Closed the resolved tab and returned to main tab.');
                     } else {
                         console.log(`Ticket ${ticket["Case No"]} is already resolved.`);
                     }
