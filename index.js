@@ -92,58 +92,66 @@ async function main() {
                         console.log('Page loaded and table is visible.');
 
                         // Extract the "Case Category" from the table in the new tab
+                        let caseCategory;
                         try {
                             // Wait for the table and Case Category row to be available
                             let caseCategoryRow = await driver.wait(until.elementLocated(By.xpath("//td[contains(text(), 'Case Category:')]")), 15000);
                             let caseCategoryElement = await caseCategoryRow.findElement(By.xpath("following-sibling::td"));
-                            let caseCategory = await caseCategoryElement.getText();
+                            caseCategory = await caseCategoryElement.getText();
                             console.log(`Extracted case category: ${caseCategory}`);
-                        
-                            // Dynamically replace the case category if necessary
-                            let categoryToSelect = caseCategory;
-                            if (categoryToSelect === 'AF Hold/ Booking Lead- Rooftop access related') {
-                                categoryToSelect = 'NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)';
-                            }
-                        
-                            // Ensure Resolve button is visible before clicking
-                            let resolveButton = await driver.wait(until.elementLocated(By.xpath("//button[@class='btn btn-primary btnResolve']")), 20000);
-                            await driver.executeScript("arguments[0].scrollIntoView();", resolveButton);
-                            await resolveButton.click();
-                            console.log(`Clicked the "Resolve" button for ticket: ${ticket["Case No"]}`);
-                        
-                            // Wait for the resolution modal to load
-                            await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000); // increased wait time
-                            console.log('Resolution modal loaded.');
-                        
-                            // Wait for the category dropdown to be visible inside the modal
-                            let categoryDropdown = await driver.wait(until.elementLocated(By.id('categoryrv')), 20000);  // Wait up to 20 seconds for the dropdown
-                            await driver.executeScript("arguments[0].scrollIntoView();", categoryDropdown);
-                            console.log('Category dropdown is now visible.');
-                        
-                            // Select the Case Resolution Category from the dropdown inside the modal
-                            let resolutionCategoryDropdown = await driver.findElement(By.id('categoryrv'));
-                            let resolutionSelect = new Select(resolutionCategoryDropdown);
-                        
-                            await resolutionSelect.selectByVisibleText(categoryToSelect);
-                            console.log(`Selected resolution category: ${categoryToSelect}`);
-                        
-                            // Enter the resolution comment
-                            let commentField = await driver.findElement(By.id('commentrv'));
-                            await commentField.clear();
-                            await commentField.sendKeys(ticket["Case Resolution Comments"]);
-                            console.log(`Added comment: ${ticket["Case Resolution Comments"]}`);
-                        
-                            // Wait a bit for any background processes to settle (since there may be loading after selecting options)
-                            await driver.sleep(3000); // Sleep for 3 seconds to allow the process to complete
-                        
-                            // Click the "Save" button
-                            let saveButton = await driver.findElement(By.id('rvSaveBtn'));
-                            await saveButton.click();
-                            console.log('Clicked on Save button to submit resolution.');
                         } catch (categoryError) {
                             console.log('Error extracting case category:', categoryError);
                         }
-                        
+
+                        // Dynamically replace the case category if necessary
+                        let categoryToSelect = caseCategory;
+                        if (categoryToSelect === 'AF Hold/ Booking Lead- Rooftop access related') {
+                            categoryToSelect = 'NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)';
+                            console.log(`Updated case category to: ${categoryToSelect}`);
+                        }
+
+                        // Ensure Resolve button is visible before clicking
+                        let resolveButton = await driver.wait(until.elementLocated(By.xpath("//button[@class='btn btn-primary btnResolve']")), 20000);
+                        await driver.executeScript("arguments[0].scrollIntoView();", resolveButton);
+                        await resolveButton.click();
+                        console.log(`Clicked the "Resolve" button for ticket: ${ticket["Case No"]}`);
+
+                        // Wait for the resolution modal to load
+                        await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000); // increased wait time
+                        console.log('Resolution modal loaded.');
+
+                        // Wait for the category dropdown to be visible inside the modal
+                        let categoryDropdown = await driver.wait(until.elementLocated(By.id('categoryrv')), 20000);  // Wait up to 20 seconds for the dropdown
+                        await driver.executeScript("arguments[0].scrollIntoView();", categoryDropdown);
+                        console.log('Category dropdown is now visible.');
+
+                        // Select the Case Resolution Category from the dropdown inside the modal
+                        let resolutionCategoryDropdown = await driver.findElement(By.id('categoryrv'));
+                        let resolutionSelect = new Select(resolutionCategoryDropdown);
+
+                        // Try to select the updated category first
+                        try {
+                            await resolutionSelect.selectByVisibleText('NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)');
+                            console.log('Selected updated case category.');
+                        } catch (e) {
+                            console.log('Updated case category not available, selecting the default case category...');
+                            await resolutionSelect.selectByVisibleText(categoryToSelect);
+                            console.log(`Selected case category: ${categoryToSelect}`);
+                        }
+
+                        // Enter the resolution comment
+                        let commentField = await driver.findElement(By.id('commentrv'));
+                        await commentField.clear();
+                        await commentField.sendKeys(ticket["Case Resolution Comments"]);
+                        console.log(`Added comment: ${ticket["Case Resolution Comments"]}`);
+
+                        // Wait a bit for any background processes to settle (since there may be loading after selecting options)
+                        await driver.sleep(3000); // Sleep for 3 seconds to allow the process to complete
+
+                        // Click the "Save" button
+                        let saveButton = await driver.findElement(By.id('rvSaveBtn'));
+                        await saveButton.click();
+                        console.log('Clicked on Save button to submit resolution.');
                     }
 
                     // Navigate back to the main page after processing
