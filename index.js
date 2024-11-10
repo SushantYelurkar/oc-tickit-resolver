@@ -127,17 +127,20 @@ async function main() {
 
                         // Select the Case Resolution Category from the dropdown inside the modal
                         let resolutionCategoryDropdown = await driver.findElement(By.id('categoryrv'));
-                        let resolutionSelect = new Select(resolutionCategoryDropdown);
 
-                        // Try to select the updated category first
-                        try {
-                            await resolutionSelect.selectByVisibleText('NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)');
-                            console.log('Selected updated case category.');
-                        } catch (e) {
-                            console.log('Updated case category not available, selecting the default case category...');
-                            await resolutionSelect.selectByVisibleText(categoryToSelect);
-                            console.log(`Selected case category: ${categoryToSelect}`);
-                        }
+                        // Using JavaScript to select the option in case Select doesn't work as expected
+                        await driver.executeScript(`
+                            var dropdown = arguments[0];
+                            var options = dropdown.options;
+                            for (var i = 0; i < options.length; i++) {
+                                if (options[i].text === '${categoryToSelect}') {
+                                    options[i].selected = true;
+                                    break;
+                                }
+                            }
+                        `, resolutionCategoryDropdown);
+
+                        console.log('Selected updated case category using JavaScript.');
 
                         // Enter the resolution comment
                         let commentField = await driver.findElement(By.id('commentrv'));
