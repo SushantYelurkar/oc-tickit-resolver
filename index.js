@@ -1,6 +1,5 @@
-const { Builder, By, until, Select } = require('selenium-webdriver');
+const { Builder, By, until } = require('selenium-webdriver');
 
-// JSON data with ticket details
 const tickets = [
     {
         "Case No": "IM287760174",
@@ -125,10 +124,8 @@ async function main() {
                         await driver.executeScript("arguments[0].scrollIntoView();", categoryDropdown);
                         console.log('Category dropdown is now visible.');
 
-                        // Select the Case Resolution Category from the dropdown inside the modal
-                        let resolutionCategoryDropdown = await driver.findElement(By.id('categoryrv'));
-
-                        // Using JavaScript to select the option in case Select doesn't work as expected
+                        // Select the Case Category from the dropdown inside the modal using JavaScript
+                        let caseCategoryDropdown = await driver.findElement(By.id('categoryrv'));
                         await driver.executeScript(`
                             var dropdown = arguments[0];
                             var options = dropdown.options;
@@ -138,9 +135,27 @@ async function main() {
                                     break;
                                 }
                             }
-                        `, resolutionCategoryDropdown);
-
+                        `, caseCategoryDropdown);
                         console.log('Selected updated case category using JavaScript.');
+
+                        // Now select the Case Resolution Category from the ticket data using JavaScript
+                        let resolutionCategory = ticket["Case Resolution Category"];
+                        let resolutionCategoryDropdown = await driver.wait(until.elementLocated(By.id('caseResolutionrv')), 20000);  // Wait for Case Resolution dropdown
+                        await driver.executeScript("arguments[0].scrollIntoView();", resolutionCategoryDropdown);
+                        console.log('Case Resolution Category dropdown is now visible.');
+
+                        // Select the Case Resolution Category using JavaScript if the dropdown is not behaving correctly
+                        await driver.executeScript(`
+                            var dropdown = arguments[0];
+                            var options = dropdown.options;
+                            for (var i = 0; i < options.length; i++) {
+                                if (options[i].text === '${resolutionCategory}') {
+                                    options[i].selected = true;
+                                    break;
+                                }
+                            }
+                        `, resolutionCategoryDropdown);
+                        console.log(`Selected Case Resolution Category: ${resolutionCategory}`);
 
                         // Enter the resolution comment
                         let commentField = await driver.findElement(By.id('commentrv'));
