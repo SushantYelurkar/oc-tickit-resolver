@@ -157,9 +157,15 @@ async function main() {
                         `, resolutionCategoryDropdown);
                         console.log(`Selected Case Resolution Category: ${resolutionCategory}`);
 
-                        // Enter the resolution comment
-                        let commentField = await driver.findElement(By.id('commentrv'));
+                        // Wait for the resolution comment textarea to be visible and enabled
+                        let commentField = await driver.wait(until.elementLocated(By.id('commentrv')), 20000);  // Wait for up to 20 seconds for the textarea to load
+                        await driver.wait(until.elementIsVisible(commentField), 20000);  // Ensure it's visible
+                        await driver.wait(until.elementIsEnabled(commentField), 20000);  // Ensure it's enabled
+
+                        // Clear any existing text in the textarea
                         await commentField.clear();
+
+                        // Add the comment from the ticket
                         await commentField.sendKeys(ticket["Case Resolution Comments"]);
                         console.log(`Added comment: ${ticket["Case Resolution Comments"]}`);
 
