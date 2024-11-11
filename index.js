@@ -2,63 +2,63 @@ const { Builder, By, until } = require('selenium-webdriver');
 
 const tickets = [
     {
-        "Case No": "IM288337571",
+        "Case No": "IM28832140",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM288362333",
+        "Case No": "IM288205343",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM288219692",
+        "Case No": "IM287952398",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM287517804",
+        "Case No": "IM287921067",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM288261595",
+        "Case No": "IM287450787",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM287956052",
+        "Case No": "IM287906357",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM287914539",
+        "Case No": "IM287346891",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM287902235",
+        "Case No": "IM287608736",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
         "": ""
     },
     {
-        "Case No": "IM287779794",
+        "Case No": "IM287675813",
         "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
         "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
@@ -113,11 +113,16 @@ async function main() {
                 await viewButton.click();
                 console.log('Clicked on View Cases button.');
 
+                // await driver.sleep(3000);
+
                 // Wait for the table to load with results
-                await driver.wait(until.elementLocated(By.css('.query-list-table tbody tr')), 10000);
+                await driver.wait(until.elementLocated(By.css('.query-list-table table')), 20000);
                 console.log('Table with case results loaded.');
 
+
+                let caseRow;
                 try {
+
                     // Find the row with the specified case number
                     let caseRow = await driver.findElement(By.xpath(`//a[contains(text(), '${ticket["Case No"]}')]/ancestor::tr`));
 
@@ -155,30 +160,49 @@ async function main() {
                             return false; // Failed to click within the timeout
                         }
 
-                        // Try clicking "Assign To Me" button if available
+                        // Check if "Assign To Me" button is available and click it
                         let assignOrResolveHandled = await clickButtonWhenAvailable("//input[@class='btn btn-primary btnAssignToMe']");
-
-                        if (!assignOrResolveHandled) {
-                            // Try clicking "Resolve" button if "Assign To Me" was not found
-                            assignOrResolveHandled = await clickButtonWhenAvailable("//button[@class='btn btn-primary btnResolve']");
-                        }
-
                         if (assignOrResolveHandled) {
-                            // Wait for page to load completely
+                            // After clicking "Assign To Me", close the current tab
+                            await driver.close();
+                            console.log('Closed current tab after clicking "Assign To Me".');
+
+                            // Switch back to the previous tab
+                            let allHandles = await driver.getAllWindowHandles();
+                            await driver.switchTo().window(allHandles[0]);
+                            console.log('Switched back to the original tab.');
+
+                            // Click on the same IM link again to open the ticket in a new tab
+                            let caseLinkAgain = await caseRow.findElement(By.xpath('.//td[1]/a'));
+                            await caseLinkAgain.click();
+                            console.log(`Opened the same case ${ticket["Case No"]} in a new tab.`);
+
+                            // Switch to the new tab
+                            let newHandles = await driver.getAllWindowHandles();
+                            let newTab = newHandles[1];
+                            await driver.switchTo().window(newTab);
+                            console.log('Switched to the newly opened tab.');
+
+                            // Click the "Resolve" button to resolve the ticket
+                            let resolveButton = await driver.findElement(By.xpath("//button[@class='btn btn-primary btnResolve']"));
+                            await resolveButton.click();
+                            console.log('Clicked Resolve button.');
+
+
                             await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000);
 
                             let categorySelect = await driver.findElement(By.id('categoryrv'));
                             let caseResolutionSelect = await driver.findElement(By.id('caseResolutionrv'));
                             let commentInput = await driver.findElement(By.id('commentrv'));
 
-                            // Select Case Category
-                            let categoryOptions = await categorySelect.findElements(By.tagName('option'));
-                            for (let option of categoryOptions) {
-                                if ((await option.getText()) === ticket["Case Category"]) {
-                                    await option.click();
-                                    break;
-                                }  
-                            }
+                             // Select Case Category
+                             let categoryOptions = await categorySelect.findElements(By.tagName('option'));
+                             for (let option of categoryOptions) {
+                                 if ((await option.getText()) === ticket["Case Category"]) {
+                                     await option.click();
+                                     break;
+                                 }  
+                             }
 
                             // Select Case Resolution Category
                             let caseResolutionOptions = await caseResolutionSelect.findElements(By.tagName('option'));
@@ -189,67 +213,89 @@ async function main() {
                                 }
                             }
 
-                            // Enter Case Resolution Comments
-                            await commentInput.clear();
-                            await commentInput.sendKeys(ticket["Case Resolution Comments"]);
-
-                            
+                             // Enter Case Resolution Comments
+                             await commentInput.clear();
+                             await commentInput.sendKeys(ticket["Case Resolution Comments"]);
 
 
-                            // Helper function to check if the page has fully loaded
-                            async function waitForPageToLoad() {
-                                try {
-                                    // Wait for an element that only appears when the page has fully loaded
-                                    await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 10000);
-                                    console.log("Page fully loaded.");
-                                } catch (error) {
-                                    console.log("Error waiting for page to load:", error);
+                             await driver.sleep(3000);
+
+
+                            // Wait for the page to load and close the current tab
+                            await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 15000);
+                            console.log('Page loaded after clicking Resolve.');
+
+                            // After resolving the ticket, close the current tab
+                            await driver.close();
+                            console.log('Closed current tab after resolving ticket.');
+
+                            // Switch back to the main tab
+                            let mainHandles = await driver.getAllWindowHandles();
+                            await driver.switchTo().window(mainHandles[0]);
+                            console.log('Switched back to the main tab.');
+                        }
+
+                        // If "Resolve" button is available directly
+                        else {
+                            let resolveButton = await driver.findElement(By.xpath("//button[@class='btn btn-primary btnResolve']"));
+                            await resolveButton.click();
+                            console.log('Clicked Resolve button.');
+
+                            await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000);
+
+                            let categorySelect = await driver.findElement(By.id('categoryrv'));
+                            let caseResolutionSelect = await driver.findElement(By.id('caseResolutionrv'));
+                            let commentInput = await driver.findElement(By.id('commentrv'));
+
+                             // Select Case Category
+                             let categoryOptions = await categorySelect.findElements(By.tagName('option'));
+                             for (let option of categoryOptions) {
+                                 if ((await option.getText()) === ticket["Case Category"]) {
+                                     await option.click();
+                                     break;
+                                 }  
+                             }
+
+                                // Select Case Resolution Category
+                            let caseResolutionOptions = await caseResolutionSelect.findElements(By.tagName('option'));
+                            for (let option of caseResolutionOptions) {
+                                if ((await option.getText()) === ticket["Case Resolution Category"]) {
+                                    await option.click();
+                                    break;
                                 }
                             }
 
-                            let saveButton = await driver.findElement(By.xpath("//button[contains(text(), 'Save')]"));
-                            await saveButton.click();
-                            console.log(`Saved resolution for ticket: ${ticket["Case No"]}`);
+                             // Enter Case Resolution Comments
+                             await commentInput.clear();
+                             await commentInput.sendKeys(ticket["Case Resolution Comments"]);
 
-                            // Wait until the page is fully loaded after clicking the button
-                            await waitForPageToLoad();
+                             await driver.sleep(3000);
 
-                            // Wait for save action to complete and close the tab
-                            await driver.wait(until.stalenessOf(saveButton), 5000);
+                            // Wait for the page to load and close the current tab
+                            await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 15000);
+                            console.log('Page loaded after clicking Resolve.');
 
-                            // Close the previous tab (before moving on to the next ticket)
+                            // After resolving the ticket, close the current tab
                             await driver.close();
-                            await driver.switchTo().window(allHandles[0]);
-                            console.log('Closed the previous tab and returned to main tab.');
+                            console.log('Closed current tab after resolving ticket.');
 
-                            // Check if the ticket is now resolved
-                            let updatedCaseRow = await driver.findElement(By.xpath(`//a[contains(text(), '${ticket["Case No"]}')]/ancestor::tr`));
-                            let updatedAssignmentStatus = await updatedCaseRow.findElement(By.xpath('.//td[7]')).getText();
-                            console.log(`Updated assignment status for ${ticket["Case No"]}: ${updatedAssignmentStatus}`);
-
-                            if (updatedAssignmentStatus === 'Resolved') {
-                                console.log(`Ticket ${ticket["Case No"]} is now resolved.`);
-                            } else {
-                                console.log(`Ticket ${ticket["Case No"]} is still unresolved, retrying...`);
-                                // If unresolved, you can either retry or exit based on your requirement
-                            }
-
-                        } else {
-                            console.log(`Failed to find "Assign To Me" or "Resolve" button for ticket: ${ticket["Case No"]}`);
+                            // Switch back to the main tab
+                            let mainHandles = await driver.getAllWindowHandles();
+                            await driver.switchTo().window(mainHandles[0]);
+                            console.log('Switched back to the main tab.');
                         }
                     } else {
-                        console.log(`Ticket ${ticket["Case No"]} is already resolved.`);
+                        console.log(`Case ${ticket["Case No"]} already resolved.`);
                     }
                 } catch (error) {
-                    console.log(`Error processing ticket ${ticket["Case No"]}: ${error}`);
+                    console.log(`Case ${ticket["Case No"]} not found or error occurred: ${error.message}`);
                 }
             }
         }
     } catch (error) {
-        console.log('Error during automation process: ', error);
+        console.log(`An error occurred: ${error.message}`);
     } finally {
         await driver.quit();
-        console.log('Driver quit, process completed.');
     }
 }
 
