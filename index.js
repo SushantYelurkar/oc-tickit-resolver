@@ -160,8 +160,42 @@ async function main() {
                             return false; // Failed to click within the timeout
                         }
 
+                        // Helper function to scroll an element into view, ensuring it is fully visible in the middle of the screen
+                        async function scrollIntoView(element) {
+                            // Scroll to the element
+                            await driver.executeScript("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", element);
+                            await driver.sleep(500); // Wait after scrolling for smooth transition
+                        }
+
+                        // Helper function to click any button (either "Assign To Me" or "Resolve")
+                        async function clickButtonWhenAvailableDown(xpath, timeout = 10000) {
+                            const startTime = Date.now();
+                            while (Date.now() - startTime < timeout) {
+                                try {
+                                    let button = await driver.findElement(By.xpath(xpath));
+
+                                    // Scroll the button into view
+                                    await scrollIntoView(button);
+                                    console.log(`Scrolled to button with xpath: ${xpath}`);
+
+                                    // Wait for the button to be visible and enabled
+                                    await driver.wait(until.elementIsVisible(button), 10000);
+                                    await driver.wait(until.elementIsEnabled(button), 10000);
+
+                                    // Click the button
+                                    await button.click();
+                                    console.log(`Clicked button with xpath: ${xpath}`);
+                                    return true; // Successfully clicked
+                                } catch (error) {
+                                    await driver.sleep(500); // Retry every 500ms if not found
+                                }
+                            }
+                            console.log(`Button with xpath ${xpath} not found within the timeout.`);
+                            return false; // Failed to click within timeout
+                        }
+
                         // Check if "Assign To Me" button is available and click it
-                        let assignOrResolveHandled = await clickButtonWhenAvailable("//input[@class='btn btn-primary btnAssignToMe']");
+                        let assignOrResolveHandled = await clickButtonWhenAvailableDown("//input[@class='btn btn-primary btnAssignToMe']");
                         if (assignOrResolveHandled) {
                             // After clicking "Assign To Me", close the current tab
                             await driver.close();
@@ -184,8 +218,8 @@ async function main() {
                             console.log('Switched to the newly opened tab.');
 
                             // Click the "Resolve" button to resolve the ticket
-                            let resolveButton = await driver.findElement(By.xpath("//button[@class='btn btn-primary btnResolve']"));
-                            await resolveButton.click();
+                            let resolveButton = await clickButtonWhenAvailableDown("//button[@class='btn btn-primary btnResolve']");
+                            // await resolveButton.click();
                             console.log('Clicked Resolve button.');
 
 
@@ -237,8 +271,8 @@ async function main() {
 
                         // If "Resolve" button is available directly
                         else {
-                            let resolveButton = await driver.findElement(By.xpath("//button[@class='btn btn-primary btnResolve']"));
-                            await resolveButton.click();
+                            let resolveButton = await clickButtonWhenAvailableDown("//button[@class='btn btn-primary btnResolve']");
+                            // await resolveButton.click();
                             console.log('Clicked Resolve button.');
 
                             await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000);
@@ -272,8 +306,16 @@ async function main() {
                              await driver.sleep(3000);
 
                             // Wait for the page to load and close the current tab
-                            await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 15000);
+                            await driver.wait(until.elementLocated(By.id("rvSaveBtn")), 15000); // Wait for the "Save" button with the correct ID
                             console.log('Page loaded after clicking Resolve.');
+
+                            // Optionally, you can add a small sleep before clicking the "Save" button if needed
+                            await driver.sleep(1000); // Optional wait for a bit before clicking the button
+
+                            // Now, click the Save button using its ID
+                            let saveButton = await driver.findElement(By.id("rvSaveBtn"));
+                            await saveButton.click();
+                            console.log('Clicked Save button.');
 
                             // After resolving the ticket, close the current tab
                             await driver.close();
