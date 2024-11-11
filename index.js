@@ -2,12 +2,68 @@ const { Builder, By, until } = require('selenium-webdriver');
 
 const tickets = [
     {
-        "Case No": "IM286844943",
-        "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-        "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+        "Case No": "IM288337571",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
         "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
     },
-    // Add more tickets as needed
+    {
+        "Case No": "IM288362333",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    },
+    {
+        "Case No": "IM288219692",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    },
+    {
+        "Case No": "IM287517804",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    },
+    {
+        "Case No": "IM288261595",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    },
+    {
+        "Case No": "IM287956052",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    },
+    {
+        "Case No": "IM287914539",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    },
+    {
+        "Case No": "IM287902235",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    },
+    {
+        "Case No": "IM287779794",
+        "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+        "Case Resolution Category": "AF Hold-Cancel ORN due to WRONG-Bldg/Add/LB issue(Need New ORN)",
+        "Case Resolution Comments": "Proceed for cancellation",
+        "": ""
+    }
 ];
 
 async function main() {
@@ -82,7 +138,7 @@ async function main() {
                         console.log('Switched to the new tab.');
 
                         // Helper function to click "Assign To Me" or "Resolve" when available
-                        async function clickButtonWhenAvailable(xpath, timeout = 1000) {
+                        async function clickButtonWhenAvailable(xpath, timeout = 10000) {
                             const startTime = Date.now();
                             while (Date.now() - startTime < timeout) {
                                 try {
@@ -99,28 +155,6 @@ async function main() {
                             return false; // Failed to click within the timeout
                         }
 
-                        // Optimized function to click "Assign To Me" or "Resolve" when available
-                        // async function clickButtonWhenAvailable(xpath, timeout = 5000) {
-                        //     const startTime = Date.now();
-                        //     while (Date.now() - startTime < timeout) {
-                        //         try {
-                        //             // Try to locate the button and click it if visible and enabled
-                        //             const button = await driver.findElement(By.xpath(xpath));
-                                    
-                        //             // Immediate click if found (assuming visibility and enablement checks can be skipped for speed)
-                        //             await button.click();
-                        //             console.log(`Clicked button with xpath: ${xpath}`);
-                        //             return true; // Success
-                        //         } catch (error) {
-                        //             // Sleep for 200ms before retrying if not found/clickable
-                        //             await driver.sleep(200); 
-                        //         }
-                        //     }
-                        //     console.log(`Failed to click button within ${timeout} ms`);
-                        //     return false; // Failed to click within the timeout
-}
-
-
                         // Try clicking "Assign To Me" button if available
                         let assignOrResolveHandled = await clickButtonWhenAvailable("//input[@class='btn btn-primary btnAssignToMe']");
 
@@ -130,8 +164,9 @@ async function main() {
                         }
 
                         if (assignOrResolveHandled) {
-                            // Proceed with entering case details if a button was clicked
+                            // Wait for page to load completely
                             await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000);
+
                             let categorySelect = await driver.findElement(By.id('categoryrv'));
                             let caseResolutionSelect = await driver.findElement(By.id('caseResolutionrv'));
                             let commentInput = await driver.findElement(By.id('commentrv'));
@@ -142,7 +177,7 @@ async function main() {
                                 if ((await option.getText()) === ticket["Case Category"]) {
                                     await option.click();
                                     break;
-                                }
+                                }  
                             }
 
                             // Select Case Resolution Category
@@ -158,16 +193,47 @@ async function main() {
                             await commentInput.clear();
                             await commentInput.sendKeys(ticket["Case Resolution Comments"]);
 
-                            // Click Save button
+                            
+
+
+                            // Helper function to check if the page has fully loaded
+                            async function waitForPageToLoad() {
+                                try {
+                                    // Wait for an element that only appears when the page has fully loaded
+                                    await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 10000);
+                                    console.log("Page fully loaded.");
+                                } catch (error) {
+                                    console.log("Error waiting for page to load:", error);
+                                }
+                            }
+
                             let saveButton = await driver.findElement(By.xpath("//button[contains(text(), 'Save')]"));
                             await saveButton.click();
                             console.log(`Saved resolution for ticket: ${ticket["Case No"]}`);
 
+                            // Wait until the page is fully loaded after clicking the button
+                            await waitForPageToLoad();
+
                             // Wait for save action to complete and close the tab
                             await driver.wait(until.stalenessOf(saveButton), 5000);
+
+                            // Close the previous tab (before moving on to the next ticket)
                             await driver.close();
                             await driver.switchTo().window(allHandles[0]);
-                            console.log('Closed the resolved tab and returned to main tab.');
+                            console.log('Closed the previous tab and returned to main tab.');
+
+                            // Check if the ticket is now resolved
+                            let updatedCaseRow = await driver.findElement(By.xpath(`//a[contains(text(), '${ticket["Case No"]}')]/ancestor::tr`));
+                            let updatedAssignmentStatus = await updatedCaseRow.findElement(By.xpath('.//td[7]')).getText();
+                            console.log(`Updated assignment status for ${ticket["Case No"]}: ${updatedAssignmentStatus}`);
+
+                            if (updatedAssignmentStatus === 'Resolved') {
+                                console.log(`Ticket ${ticket["Case No"]} is now resolved.`);
+                            } else {
+                                console.log(`Ticket ${ticket["Case No"]} is still unresolved, retrying...`);
+                                // If unresolved, you can either retry or exit based on your requirement
+                            }
+
                         } else {
                             console.log(`Failed to find "Assign To Me" or "Resolve" button for ticket: ${ticket["Case No"]}`);
                         }
