@@ -194,7 +194,8 @@ async function main() {
 
 
                             // Wait for the page to load and close the current tab
-                            await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 15000);
+                            let saveButton = await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 15000);
+                            await saveButton.click();
                             console.log('Page loaded after clicking Resolve.');
 
                             await driver.sleep(1000);
