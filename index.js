@@ -161,6 +161,8 @@ async function main() {
 
                             await driver.wait(until.elementLocated(By.css('.modal-dialog')), 15000);
 
+                            await driver.sleep(3000);
+
                             let categorySelect = await driver.findElement(By.id('categoryrv'));
                             let caseResolutionSelect = await driver.findElement(By.id('caseResolutionrv'));
                             let commentInput = await driver.findElement(By.id('commentrv'));
@@ -194,6 +196,8 @@ async function main() {
                             // Wait for the page to load and close the current tab
                             await driver.wait(until.elementLocated(By.xpath("//button[contains(text(),'Save')]")), 15000);
                             console.log('Page loaded after clicking Resolve.');
+
+                            await driver.sleep(1000);
 
                             // After resolving the ticket, close the current tab
                             await driver.close();
