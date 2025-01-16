@@ -10,7 +10,7 @@ async function main() {
         await driver.get('https://jiocentral.jioconnect.com');
         await driver.wait(until.elementLocated(By.name('username')), 10000);
         await driver.findElement(By.name('username')).sendKeys('Sushant.Yelurkar');
-        await driver.findElement(By.name('password')).sendKeys('Sush12#$%^');
+        await driver.findElement(By.name('password')).sendKeys('Sush1@3$5^');
         await driver.findElement(By.css('input[type="submit"]')).click();
         console.log('Logged in successfully.');
 
