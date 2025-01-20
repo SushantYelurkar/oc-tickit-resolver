@@ -3,14 +3,27 @@ const { Builder, By, until } = require('selenium-webdriver');
 const tickets = require('./tickets.json'); // Load tickets from JSON file;
 
 async function main() {
-    let driver = await new Builder().forBrowser('chrome').build();
+    const chrome = require('selenium-webdriver/chrome');
+
+    const options = new chrome.Options();
+    options.addArguments('disable-backgrounding-occluded-windows');
+    options.addArguments('disable-popup-blocking'); // Avoids interference with popups
+    options.addArguments('start-maximized'); // Optional: to ensure full screen
+    
+    const driver = new Builder().forBrowser('chrome').setChromeOptions(options).build();
 
     try {
         // Open the login page and log in
         await driver.get('https://jiocentral.jioconnect.com');
         await driver.wait(until.elementLocated(By.name('username')), 10000);
         await driver.findElement(By.name('username')).sendKeys('Sushant.Yelurkar');
-        await driver.findElement(By.name('password')).sendKeys('Sush12#$%^');
+        await driver.findElement(By.name('password')).sendKeys('Sush1@3$5^');
+        // await driver.findElement(By.name('username')).sendKeys('Dimple1.Dhingra');
+        // await driver.findElement(By.name('password')).sendKeys('Shiv@0113');
+        //  await driver.findElement(By.name('username')).sendKeys('kirti2.dubey');
+        // await driver.findElement(By.name('password')).sendKeys('Rcp@#1234');
+        //  await driver.findElement(By.name('username')).sendKeys('Nancy.Nema');
+        // await driver.findElement(By.name('password')).sendKeys('Sarvesh@1904');
         await driver.findElement(By.css('input[type="submit"]')).click();
         console.log('Logged in successfully.');
 
