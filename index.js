@@ -13,7 +13,6 @@ async function main() {
 <<<<<<< HEAD
         await driver.findElement(By.name('password')).sendKeys('Sush1@3$5^');
 =======
-        await driver.findElement(By.name('password')).sendKeys('Sush12#$%^');
 >>>>>>> parent of 1c14601 (changes)
         await driver.findElement(By.css('input[type="submit"]')).click();
         console.log('Logged in successfully.');
