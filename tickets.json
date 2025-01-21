@@ -1,337 +1,433 @@
  [
     {
-      "Case No": "IM294820411",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case No": "IM294714623",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
     },
     {
-      "Case No": "IM295288833",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-      "Case Resolution Comments": "Proceed for cancellation"
-    },
-    {
-      "Case No": "IM295734452",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-      "Case Resolution Comments": "Proceed for cancellation"
-    },
-    {
-      "Case No": "IM296004963",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296232262",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-      "Case Resolution Comments": "Proceed for cancellation"
-    },
-    {
-      "Case No": "IM296234145",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296235585",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296260054",
+      "Case No": "IM294714890",
       "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
       "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
     },
     {
-      "Case No": "IM296260751",
+      "Case No": "IM294718734",
       "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
       "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
     },
     {
-      "Case No": "IM296339217",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296421912",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case No": "IM294748608",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
     },
     {
-      "Case No": "IM296425733",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
+      "Case No": "IM294748970",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
     },
     {
-      "Case No": "IM296427590",
-      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case No": "IM295295524",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
       "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296428625",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296435837",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296447788",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296450741",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296465564",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296466296",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296475019",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296476691",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296478626",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296478683",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296478769",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296478850",
+      "Case No": "IM295393340",
       "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
-    },
-    {
-      "Case No": "IM296478914",
-      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
-    },
-    {
-      "Case No": "IM296478993",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
     },
     {
-      "Case No": "IM296479229",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case No": "IM295393773",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
     },
     {
-      "Case No": "IM296479577",
+      "Case No": "IM295394051",
       "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
-    },
-    {
-      "Case No": "IM296479620",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479655",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479684",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479723",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479769",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479799",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479825",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479854",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479886",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296479912",
-      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
-    },
-    {
-      "Case No": "IM296479932",
-      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
-    },
-    {
-      "Case No": "IM296479952",
-      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Please provide photos or videos as an attachment for further verification. JCM Approval Require for resolve this case, attach proof of JCM confirmation\r\n "
-    },
-    {
-      "Case No": "IM296480475",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296483106",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they  want a connection, customer booked ORN on 14-01-2025, so how they are out of city for long time?"
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
     },
     {
-      "Case No": "IM296484037",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
+      "Case No": "IM295687036",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM295688113",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM295688271",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
       "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296488236",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296488819",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case No": "IM295867493",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
     },
     {
-      "Case No": "IM296496121",
+      "Case No": "IM295872910",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM295992095",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296004006",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296018979",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296049423",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296104739",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296161756",
       "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
       "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
     },
     {
-      "Case No": "IM296498948",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
+      "Case No": "IM296259709",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
       "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
     },
     {
-      "Case No": "IM296500876",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
+      "Case No": "IM296276491",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296356503",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296358781",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296401522",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296413182",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296424476",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296430191",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296433543",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
       "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
     },
     {
-      "Case No": "IM296502545",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
+      "Case No": "IM296433995",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296434036",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296434472",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
       "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
     },
     {
-      "Case No": "IM296521226",
+      "Case No": "IM296434686",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296435050",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296435172",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296436230",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296436531",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296437714",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296437941",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296437985",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296438207",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296438837",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296438893",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296439188",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296439435",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296439687",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296439730",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296439930",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296468282",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296470789",
+      "Case Category": "NHQ Escalation- NO LoS for UBR",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is NHQ Escalation- NO LoS for UBR"
+    },
+    {
+      "Case No": "IM296471461",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296475531",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296475737",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296475940",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296476885",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296477026",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM attachement missing  reattach as in the format of Image / PDF"
+    },
+    {
+      "Case No": "IM296477135",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296477887",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+    },
+    {
+      "Case No": "IM296478586",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296478628",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296478725",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296478811",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296478881",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296478918",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296478982",
+      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+    },
+    {
+      "Case No": "IM296490349",
+      "Case Category": "NHQ Escalation- NO LoS for UBR",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is NHQ Escalation- NO LoS for UBR"
+    },
+    {
+      "Case No": "IM296490436",
+      "Case Category": "NHQ Escalation- NO LoS for UBR",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is NHQ Escalation- NO LoS for UBR"
+    },
+    {
+      "Case No": "IM296492751",
       "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
       "Case Resolution Comments": "Connect to the customer when they want a connection"
     },
     {
-      "Case No": "IM296523680",
-      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
-      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-      "Case Resolution Comments": "Proceed for cancellation"
+      "Case No": "IM296493189",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
     },
     {
-      "Case No": "IM296523809",
-      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
-      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-      "Case Resolution Comments": "Proceed for cancellation"
+      "Case No": "IM296526693",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
     },
     {
-      "Case No": "IM296523940",
-      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
-      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-      "Case Resolution Comments": "Proceed for cancellation"
+      "Case No": "IM296526891",
+      "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
     },
     {
-      "Case No": "IM296524107",
-      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
-      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
-      "Case Resolution Comments": "Proceed for cancellation"
-    },
-    {
-      "Case No": "IM296524483",
-      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case No": "IM296528834",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
       "Case Resolution Comments": "Proceed for cancellation"
     }
