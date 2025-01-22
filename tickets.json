@@ -1,380 +1,224 @@
  [
     {
-      "Case No": "IM296017803",
-      "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
-    },
-    {
-      "Case No": "IM296202449",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296207123",
+      "Case No": "IM295296445",
       "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "For Existing Customer's concern SR should be raised with state CSD/Home Connect  for cancellation. "
     },
     {
-      "Case No": "IM296212742",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case No": "IM295668010",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM295744752",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM295870537",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM295871086",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM295871639",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM295872117",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM295872448",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM295984046",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "For Existing Customer's concern SR should be raised with state CSD/Home Connect  for cancellation. "
+    },
+    {
+      "Case No": "IM296029395",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM296029730",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM296029887",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM296425480",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "For Existing Customer's concern SR should be raised with state CSD/Home Connect  for cancellation. "
+    },
+    {
+      "Case No": "IM296444809",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM296447647",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
+    },
+    {
+      "Case No": "IM296470427",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "For Existing Customer's concern SR should be raised with state CSD/Home Connect  for cancellation. "
+    },
+    {
+      "Case No": "IM296481042",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+      "Case Resolution Comments": "For Existing Customer's concern SR should be raised with state CSD/Home Connect  for cancellation. "
+    },
+    {
+      "Case No": "IM296566809",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
       "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
       "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296226966",
-      "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
+      "Case No": "IM296588917",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "IM296608471",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
+      "Case Resolution Comments": "Share the ORN or LR number for further investigation, JCM Comment Require to resolve this case, attach proof of JCM Comment"
     },
     {
-      "Case No": "IM296232372",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296235632",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296323964",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296358672",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296369903",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296424094",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296424253",
-      "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
-    },
-    {
-      "Case No": "IM296428713",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296448018",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296536078",
-      "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
-    },
-    {
-      "Case No": "IM296540978",
-      "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
-    },
-    {
-      "Case No": "IM296542545",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296543766",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296549352",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296550540",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296550710",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296556109",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296556482",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296559733",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296565795",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296572304",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296577846",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296579822",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296582326",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296585619",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296588257",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296588452",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296591726",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296592008",
-      "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
-    },
-    {
-      "Case No": "IM296592172",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296592657",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296592760",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296592949",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296593037",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296593167",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296594047",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
+      "Case No": "IM296647747",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
       "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
       "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296594081",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296594118",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296594855",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296595063",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296595097",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296595210",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296595375",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296595574",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296595914",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-    },
-    {
-      "Case No": "IM296598212",
-      "Case Category": "NHQ Escalation-Wiring related (Concealed/Internal/external not possible)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296610573",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296633472",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+      "Case No": "IM296648237",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
       "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
       "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296637003",
+      "Case No": "IM296650048",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296651286",
       "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
     },
     {
-      "Case No": "IM296637010",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+      "Case No": "IM296651504",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296637155",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+      "Case No": "IM296651550",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296637258",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+      "Case No": "IM296654301",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296637367",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+      "Case No": "IM296655018",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296637446",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+      "Case No": "IM296655328",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
     },
     {
-      "Case No": "IM296638029",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296643271",
+      "Case No": "IM296655672",
       "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
     },
     {
-      "Case No": "IM296644764",
-      "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
-      "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-      "Case Resolution Comments": "JCM Approval Require for resolve this case, attach proof of JCM confirmation"
-    },
-    {
-      "Case No": "IM296646312",
+      "Case No": "IM296655976",
       "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "IM296656441",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "IM296657281",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296657567",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296658438",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296658689",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296659408",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
     }
   ]
