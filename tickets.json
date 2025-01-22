@@ -1,98 +1,188 @@
  [
     {
-      "Case No": "IM296594177",
+      "Case No": "IM296591470",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296564312",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296565619",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296556403",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296590105",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296627199",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296627018",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296626973",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296626870",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296593288",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296593172",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296564312",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296565619",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296556403",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296638170",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296634319",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296554008",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296539315",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296527063",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296448281",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM295985288",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM295401572",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296627423",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296627320",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296627255",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296593263",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296584019",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296206863",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296404222",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
+    },
+    {
+      "Case No": "IM296474403",
       "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
       "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
       "Case Resolution Comments": "Connect to the customer when they want a connection"
     },
     {
-      "Case No": "IM296594047",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296593999",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296593906",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296591475",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296547436",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296106664",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296241800",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296589206",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296586178",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296425529",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296136161",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296099644",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296588751",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296586248",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
-    },
-    {
-      "Case No": "IM296574953",
-      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-      "Case Resolution Comments": "Connect to the customer when they want a connection"
+      "Case No": "IM296416994",
+      "Case Category": "NHQ Escalation - JioFiber Hold Wrong BID",
+      "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+      "Case Resolution Comments": "Proceed for cancellation"
     }
   ]
