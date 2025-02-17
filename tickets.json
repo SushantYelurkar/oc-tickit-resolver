@@ -1,117 +1,525 @@
 [
   {
-    "Case No": "JC1919262",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case No": "JC1878033",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
   },
   {
-    "Case No": "JC1914813",
+    "Case No": "JC1896482",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1896899",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1905224",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1905683",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1909433",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1915457",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
   },
   {
     "Case No": "JC1916193",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920205",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919337",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1916883",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921361",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921363",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919376",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1916605",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1915941",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921368",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921444",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921607",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921232",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921322",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1921651",
     "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
     "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
     "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
   },
   {
-    "Case No": "JC1921639",
-    "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-    "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
+    "Case No": "JC1918512",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
   },
   {
-    "Case No": "JC1921545",
-    "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
+    "Case No": "JC1918526",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1918891",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1919043",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1919106",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1919132",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1919132",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1919228",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1919228",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1919243",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1919243",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1920917",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
     "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-    "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1920940",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
+  },
+  {
+    "Case No": "JC1920969",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
+  },
+  {
+    "Case No": "JC1921085",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921102",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921103",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921104",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921122",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921137",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921190",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921203",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921206",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921209",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921221",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921225",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921227",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921240",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921256",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921330",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for confirmation, as per the GPS view, the rooftop is not covered."
+  },
+  {
+    "Case No": "JC1921331",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for confirmation, as per the GPS view, the rooftop is not covered."
+  },
+  {
+    "Case No": "JC1921332",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for confirmation, as per the GPS view, the rooftop is not covered."
+  },
+  {
+    "Case No": "JC1921334",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for confirmation, as per the GPS view, the rooftop is not covered."
+  },
+  {
+    "Case No": "JC1921337",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for confirmation, as per the GPS view, the rooftop is not covered."
+  },
+  {
+    "Case No": "JC1921339",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for confirmation, as per the GPS view, the rooftop is not covered."
+  },
+  {
+    "Case No": "JC1921342",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for confirmation, as per the GPS view, the rooftop is not covered."
+  },
+  {
+    "Case No": "JC1921344",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
+  },
+  {
+    "Case No": "JC1921357",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Connect to the customer when they want a connection"
   },
   {
     "Case No": "JC1921378",
@@ -120,201 +528,393 @@
     "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
   },
   {
-    "Case No": "JC1916193",
+    "Case No": "JC1921380",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921387",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921391",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921396",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921398",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
+  },
+  {
+    "Case No": "JC1921407",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921489",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921545",
     "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
     "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
     "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
   },
   {
-    "Case No": "JC1921679",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case No": "JC1921557",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
   },
   {
-    "Case No": "JC1921678",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case No": "JC1921564",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
   },
   {
-    "Case No": "JC1921676",
+    "Case No": "JC1921574",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921668",
+    "Case No": "JC1921575",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921659",
+    "Case No": "JC1921580",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921655",
+    "Case No": "JC1921581",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921646",
+    "Case No": "JC1921583",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921641",
+    "Case No": "JC1921588",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921636",
+    "Case No": "JC1921590",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921634",
+    "Case No": "JC1921597",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921626",
+    "Case No": "JC1921601",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921486",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case No": "JC1921602",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
   },
   {
-    "Case No": "JC1921472",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case No": "JC1921608",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
   },
   {
-    "Case No": "JC1919262",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case No": "JC1921611",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
   },
   {
-    "Case No": "JC1914813",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case No": "JC1921612",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
   },
   {
-    "Case No": "JC1916193",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case No": "JC1921614",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Please attach proof for further investigation, JCM Approval Require for resolve this case, attach proof of JCM confirmation"
   },
   {
-    "Case No": "JC1906969",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case No": "JC1921639",
+    "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
   },
   {
-    "Case No": "JC1920205",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case No": "JC1921651",
+    "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
+    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
+    "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
   },
   {
-    "Case No": "JC1919337",
+    "Case No": "JC1921672",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921361",
+    "Case No": "JC1921680",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921363",
+    "Case No": "JC1921683",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1919376",
+    "Case No": "JC1921738",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1916605",
+    "Case No": "JC1921740",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921486",
+    "Case No": "JC1921742",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921472",
+    "Case No": "JC1921744",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1915941",
+    "Case No": "JC1921747",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921368",
+    "Case No": "JC1921750",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921607",
+    "Case No": "JC1921752",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921232",
+    "Case No": "JC1921754",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921322",
+    "Case No": "JC1921756",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1921021",
+    "Case No": "JC1921758",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
   },
   {
-    "Case No": "JC1915077",
+    "Case No": "JC1921761",
     "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
     "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921762",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921764",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921765",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921766",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921767",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921768",
+    "Case Category": "NHQ Escalation - Permission Issue (Society / Rooftop / neighbour / LCO)",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Request JCM to get the required permission for installation and update building attributes accordingly.\r\nAttachment of JCM comments required."
+  },
+  {
+    "Case No": "JC1921769",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921771",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921773",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921774",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921776",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921779",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921782",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921785",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921787",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921788",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921789",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921790",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921791",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921792",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1921793",
+    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN installation"
+  },
+  {
+    "Case No": "JC1922249",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
+  },
+  {
+    "Case No": "JC1922250",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
+  },
+  {
+    "Case No": "JC1922252",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
+  },
+  {
+    "Case No": "JC1922254",
+    "Case Category": "NHQ Escalation:JioFiber Hold-Other issue(Wiring /LCO /Incorrect info)",
+    "Case Resolution Category": "AF Hold-Cancel ORN (NoLOS/NoCoverage/BldgAccess/BldgWiring/LCO issue)",
+    "Case Resolution Comments": "Proceed for cancellation"
   }
 ]
