@@ -1,392 +1,716 @@
 [
-  {
-    "Case No": "JC1916193",
-    "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-    "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
-  },
-  {
-    "Case No": "JC1918559",
-    "Case Category": "NHQ Escalation:JioFiber Hold-S2 or OTB port full",
-    "Case Resolution Category": "AF Hold-ReOpen/ReRaise (NeedMoreInfo/Select case start with AF HOLD)",
-    "Case Resolution Comments": "Re-raise the ticket in the correct case resolution category which is S2 or OTB FULL"
-  },
-  {
-    "Case No": "JC1914885",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1914920",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1915868",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1916213",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1916246",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1916569",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1918235",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1918275",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1918419",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1918539",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1919561",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1919657",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1919824",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1919865",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1920041",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1920224",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1920260",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1920369",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1920737",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1920769",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1920873",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Connect to the customer when they want a connection"
-  },
-  {
-    "Case No": "JC1919262",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1916193",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920688",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1915739",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919178",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1918431",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1918419",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1915687",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920205",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1917806",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1913526",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1914948",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920568",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1916593",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919337",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1916883",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919376",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1916605",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1912675",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1918539",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1917720",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1916480",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1915941",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920397",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920642",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1915839",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919917",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919928",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1919940",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920170",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920873",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1915596",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1920189",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "ORN is less than 20 days old, try to connect to the customer. If not able to connect, then JCM approval is required along with the approval from state Home lead / mobility lead."
-  },
-  {
-    "Case No": "JC1912014",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1917685",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1909063",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1897337",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1917016",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1909433",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1919132",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1919228",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  },
-  {
-    "Case No": "JC1919243",
-    "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
-    "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
-    "Case Resolution Comments": "Duplicate WO will cancel automatically after 4 weeks of ORN cancellation"
-  }
-]
+    {
+      "Case No": "JC1928198",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1928171",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1928094",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1928092",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1928047",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1928042",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1928022",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927996",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927919",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927915",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927837",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927782",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927737",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927633",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927626",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927614",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927523",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927532",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927493",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927483",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927475",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927478",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927479",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927333",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927265",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927250",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927249",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927229",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927177",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927149",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927111",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1927088",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926848",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926828",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926771",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926607",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926470",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926441",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926395",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926303",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926198",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926175",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1926019",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925960",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925814",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925821",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925627",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925635",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925651",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925582",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925512",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925477",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925249",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925253",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1925110",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924945",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924869",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924589",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924503",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924488",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924495",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924483",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924479",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924470",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924462",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924452",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924451",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924445",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924437",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924429",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924408",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924419",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924404",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924393",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924377",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924362",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924345",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924324",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924315",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924294",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924267",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924169",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924121",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924123",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924077",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924097",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924057",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924066",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924032",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1924010",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923949",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923909",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923886",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923889",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923830",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923837",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923826",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923793",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923774",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923658",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923642",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923550",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923543",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923529",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923519",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923503",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923493",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923490",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923472",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923462",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923398",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923208",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923194",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923179",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923185",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923135",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1923117",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1922883",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    },
+    {
+      "Case No": "JC1922675",
+      "Case Category": "NHQ Escalation- Incorrect Plan/Product information to customer",
+      "Case Resolution Category": "AF Hold- Resolution Provided For Installation",
+      "Case Resolution Comments": "Connect to the customer when they want a connection"
+    }
+  ]
