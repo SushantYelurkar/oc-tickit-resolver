@@ -1,9 +1,21 @@
 const { Builder, By, until } = require('selenium-webdriver');
+const chrome = require('selenium-webdriver/chrome');
 
 const tickets = require('./tickets.json'); // Load tickets from JSON file;
 
 async function main() {
-    let driver = await new Builder().forBrowser('chrome').build();
+    let options = new chrome.Options();
+    
+    options.addArguments(
+        '--headless=new',  // Runs Chrome in headless mode (no UI)
+        '--disable-gpu',   // Disables GPU hardware acceleration (useful for headless mode)
+        '--disable-infobars', // Hides "Chrome is being controlled by automated test software" message
+        '--disable-popup-blocking',
+        '--window-size=1920,1080' // Ensures proper rendering in headless mode
+    );
+
+    let driver = await new Builder().forBrowser('chrome').setChromeOptions(options).build();
+
 
     try {
         // Open the login page and log in
